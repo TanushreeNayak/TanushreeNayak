@@ -33,10 +33,5 @@ Here are my latest activities on GitHub:
 - Created a new game project [Aar-ya-Paar](https://github.com/TanushreeNayak/Aar-ya-Paar).
 - Contributed to the [hyperswitch](https://github.com/TanushreeNayak/hyperswitch) project.
 
-## Latest Blog Posts
 
-No blog posts yet, but stay tuned for updates!
 
-## Connect with Me
-
-{}
