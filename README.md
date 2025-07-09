@@ -10,7 +10,7 @@ I'm currently in my last year of B.Tech. I enjoy developing projects that involv
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,HTML,CSS,react,flask,c" />
+    <img src="https://skillicons.dev/icons?i=python,html,css,react,flask,c,js" />
   </a>
 </p>
 
