@@ -8,7 +8,12 @@ I'm currently in my last year of B.Tech. I enjoy developing projects that involv
 
 ## Skills & Technologies
 
-html,css,ML,Python,flask,react,,express,NLP,mongodb,git,github,nodejs,fastapi
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,HTML,CSS,react,flask,c" />
+  </a>
+</p>
+
 ## Top Projects
 
 - [Dog_cat-image-prediction](https://github.com/TanushreeNayak/Dog_cat-image-prediction): A machine learning project that predicts whether an image contains a dog or a cat. ⭐️ 0 stars | 🐍 Python
