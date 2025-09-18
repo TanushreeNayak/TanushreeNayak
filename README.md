@@ -1,6 +1,5 @@
-## About Me
-
-Hi, I'm Tanushree, a passionate tech enthusiast skilled in Python, Machine Learning, and Web Development. I enjoy turning complex problems into simple, elegant solutions. With experience in tools like Jupyter, HTML, and h5 models, I love building smart systems that combine data, logic, and creativity. I'm always exploring new technologies and pushing boundaries to make ideas come alive.
+Hi, I'm Tanushree🪄
+A passionate tech enthusiast skilled in Python, Machine Learning, and Web Development. I enjoy turning complex problems into simple, elegant solutions. With experience in tools like Jupyter, HTML, and h5 models, I love building smart systems that combine data, logic, and creativity. I'm always exploring new technologies and pushing boundaries to make ideas come alive.
 
 ## My Skills
 
